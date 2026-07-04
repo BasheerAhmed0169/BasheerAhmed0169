@@ -33,15 +33,7 @@ An intelligent full-stack system designed to completely automate academic schedu
 * **Dynamic Frontend:** Leveraged **Streamlit** to generate a highly reactive, stateful user dashboard that maps real-time running classes by campus building and floor.
 * **Database Infrastructure:** Architected a self-healing relational MySQL storage schema that auto-compiles and scales dynamically upon initial application launch.
 
----
 
-## 📈 GitHub Insights & Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BasheerAhmed0169&show_icons=true&theme=radical&hide_border=true" height="150" alt="Basheer's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BasheerAhmed0169&theme=radical&hide_border=true" height="150" alt="Basheer's GitHub Streak" />
-</p>
-
----
 
 ### 🛠️ Open for Collaboration
 I am always open to exploring high-performance Python development roles, backend system optimization, and open-source contributions. Feel free to explore my repositories or drop an email!
