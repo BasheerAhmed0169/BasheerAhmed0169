@@ -9,7 +9,7 @@ A data-driven and solution-oriented Software Engineer with a solid foundation in
 * 🎓 **Education:** Bachelor of Science in Computer Science (BSCS) – Aror University of Art, Architecture, Design and Heritage, Sukkur.
 * 🛠️ **Core Focus:** Structural Data Parsing, Database Optimization, and Dynamic Web Architecture.
 * 💼 **Philosophy:** Transforming unorganized, manual enterprise data workflows into highly efficient, real-time automated production environments.
-* 📫 **Let's Connect:** [Your LinkedIn Profile] | basheerahmed0169@gmail.com
+* 📫 **Let's Connect:**  basheers3132@gmail.com
 
 ---
 
